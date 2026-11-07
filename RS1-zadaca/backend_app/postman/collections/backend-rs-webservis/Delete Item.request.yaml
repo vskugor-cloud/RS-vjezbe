@@ -1,0 +1,9 @@
+$kind: http-request
+name: Delete Item
+order: 5000
+method: DELETE
+url: '{{base_url}}/api/items/{{id}}'
+pathVariables:
+  - key: id
+    value: '1'
+    description: 'ID of the item to delete'

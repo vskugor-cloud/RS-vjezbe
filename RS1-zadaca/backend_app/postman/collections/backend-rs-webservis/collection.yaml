@@ -1,0 +1,3 @@
+$kind: collection
+name: backend-rs-webservis
+description: 'Collection generated from https://backend-rs-webservis.onrender.com — routes read from server.js'

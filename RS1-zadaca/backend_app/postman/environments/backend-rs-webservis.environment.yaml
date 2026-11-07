@@ -1,0 +1,10 @@
+name: backend-rs-webservis
+values:
+  - key: base_url
+    value: 'https://backend-rs-webservis.onrender.com'
+    type: default
+    enabled: true
+  - key: id
+    value: '1'
+    type: default
+    enabled: true
